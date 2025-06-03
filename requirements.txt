@@ -1,0 +1,11 @@
+Please refer to the following official resources:
+● SpaCy: https://spacy.io/
+● Named Entity Recognition (NER): https://spacy.io/api/entityrecognizer
+● Model Training: https://spacy.io/usage/training#training-data
+
+SpaCy  ## python Library
+pytest ## unit testing
+
+## Installation Instruction
+    pip install -r requirements.txt
+    python -m spacy download en_core_web_sm

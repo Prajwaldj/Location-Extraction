@@ -1,4 +1,4 @@
-import sys
+
 from location_extractor import LocationExtractor
 
 def main():
